@@ -23,7 +23,11 @@ To get a local copy up and running follow these simple example steps.
 
 - Navigate to project folder
 
-- Right click to index.html file and choose open with chrome.
+- Run `npm install`
+
+- Run `npm run watch`
+
+- Right click index.html and open with chrome or any other browser
 
 ## Authors
 
